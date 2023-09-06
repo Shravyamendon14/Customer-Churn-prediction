@@ -20,7 +20,7 @@ import streamlit as st
 import altair as alt
 import pandas as pd
 import numpy as np
-import os, urllib, cv2
+import os, urllib
 
 # Streamlit encourages well-structured code, like starting execution in a main() function.
 def main():
